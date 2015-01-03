@@ -1,4 +1,4 @@
-<?php
+<?php namespace Komly/View;
 
 /**
     Simple template engine for PHP
